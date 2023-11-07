@@ -1,0 +1,815 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.424,
+          63.859,
+          5.4
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-07",
+        "Time": "06:15:21",
+        "Magnitude": 0.2,
+        "Quality": 90.02,
+        "Location": "2.4 km NNE of Grindav\u00edk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.759,
+          63.808,
+          4.6
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-07",
+        "Time": "06:03:24",
+        "Magnitude": 1.9,
+        "Quality": 90.08,
+        "Location": "2.8 km WNW of Reykjanest\u00e1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.578,
+          63.847,
+          6.0
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-07",
+        "Time": "06:02:09",
+        "Magnitude": 0.5,
+        "Quality": 52.09,
+        "Location": "6.7 km W of Grindav\u00edk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.621,
+          63.834,
+          4.1
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-07",
+        "Time": "05:12:28",
+        "Magnitude": 0.8,
+        "Quality": 90.01,
+        "Location": "5.6 km NE of Reykjanest\u00e1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.631,
+          63.834,
+          1.6
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-07",
+        "Time": "05:11:25",
+        "Magnitude": 0.1,
+        "Quality": 43.81,
+        "Location": "5.2 km NE of Reykjanest\u00e1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.54,
+          63.857,
+          4.6
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-07",
+        "Time": "04:25:48",
+        "Magnitude": 0.5,
+        "Quality": 90.02,
+        "Location": "5.2 km WNW of Grindav\u00edk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.233,
+          64.421,
+          6.8
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-07",
+        "Time": "03:56:37",
+        "Magnitude": 1.2,
+        "Quality": 90.01,
+        "Location": "2.7 km NE of Gr\u00edmsfjall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -19.135,
+          63.601,
+          1.1
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-07",
+        "Time": "03:37:51",
+        "Magnitude": 1.1,
+        "Quality": 90.05,
+        "Location": "2.9 km NW of H\u00e1bunga"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.773,
+          63.822,
+          7.9
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-07",
+        "Time": "02:40:09",
+        "Magnitude": 1.9,
+        "Quality": 58.69,
+        "Location": "4.1 km NW of Reykjanest\u00e1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.528,
+          63.863,
+          3.9
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-07",
+        "Time": "02:39:08",
+        "Magnitude": 0.2,
+        "Quality": 53.18,
+        "Location": "5.0 km WNW of Grindav\u00edk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.765,
+          63.814,
+          6.6
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-07",
+        "Time": "02:37:59",
+        "Magnitude": 1.5,
+        "Quality": 90.03,
+        "Location": "3.3 km WNW of Reykjanest\u00e1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.673,
+          63.833,
+          6.5
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-07",
+        "Time": "02:29:16",
+        "Magnitude": 0.1,
+        "Quality": 31.21,
+        "Location": "4.0 km NNE of Reykjanest\u00e1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.375,
+          63.89,
+          6.0
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-07",
+        "Time": "02:14:00",
+        "Magnitude": 0.7,
+        "Quality": 90.05,
+        "Location": "5.1 km WSW of Fagradalsfjall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.562,
+          63.827,
+          2.4
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-07",
+        "Time": "02:02:42",
+        "Magnitude": 2.3,
+        "Quality": 99.0,
+        "Location": "6.0 km WSW of Grindav\u00edk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.391,
+          63.88,
+          4.5
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-07",
+        "Time": "02:02:20",
+        "Magnitude": 1.4,
+        "Quality": 99.0,
+        "Location": "5.3 km NNE of Grindav\u00edk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.441,
+          63.858,
+          2.9
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-07",
+        "Time": "01:45:05",
+        "Magnitude": 1.1,
+        "Quality": 99.0,
+        "Location": "2.2 km N of Grindav\u00edk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.426,
+          63.863,
+          3.6
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-07",
+        "Time": "01:43:57",
+        "Magnitude": 1.1,
+        "Quality": 99.0,
+        "Location": "2.8 km NNE of Grindav\u00edk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.384,
+          63.891,
+          3.9
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-07",
+        "Time": "01:43:12",
+        "Magnitude": 0.8,
+        "Quality": 99.0,
+        "Location": "5.5 km WSW of Fagradalsfjall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.655,
+          63.841,
+          5.4
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-07",
+        "Time": "01:41:35",
+        "Magnitude": 0.2,
+        "Quality": 72.43,
+        "Location": "5.2 km NNE of Reykjanest\u00e1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.434,
+          63.868,
+          0.1
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-07",
+        "Time": "01:40:04",
+        "Magnitude": 1.2,
+        "Quality": 99.0,
+        "Location": "3.3 km N of Grindav\u00edk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.76,
+          63.813,
+          6.0
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-07",
+        "Time": "01:38:00",
+        "Magnitude": 1.2,
+        "Quality": 45.89,
+        "Location": "3.0 km WNW of Reykjanest\u00e1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.373,
+          63.893,
+          5.5
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-07",
+        "Time": "01:34:33",
+        "Magnitude": 2.3,
+        "Quality": 99.0,
+        "Location": "5.0 km WSW of Fagradalsfjall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.377,
+          63.89,
+          5.6
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-07",
+        "Time": "01:33:50",
+        "Magnitude": 1.5,
+        "Quality": 99.0,
+        "Location": "5.2 km WSW of Fagradalsfjall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.644,
+          63.866,
+          1.9
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-07",
+        "Time": "01:32:47",
+        "Magnitude": 0.1,
+        "Quality": 34.36,
+        "Location": "7.9 km NNE of Reykjanest\u00e1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.431,
+          63.862,
+          2.1
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-07",
+        "Time": "01:30:19",
+        "Magnitude": 2.8,
+        "Quality": 99.0,
+        "Location": "2.6 km NNE of Grindav\u00edk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.46,
+          63.265,
+          11.9
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-07",
+        "Time": "01:26:17",
+        "Magnitude": 2.9,
+        "Quality": 90.15,
+        "Location": "43.3 km W of Surtsey"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.333,
+          64.435,
+          4.2
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-07",
+        "Time": "01:23:07",
+        "Magnitude": 1.4,
+        "Quality": 99.0,
+        "Location": "4.4 km NW of Gr\u00edmsfjall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.382,
+          63.9,
+          4.9
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-07",
+        "Time": "01:21:27",
+        "Magnitude": 0.9,
+        "Quality": 99.0,
+        "Location": "5.3 km W of Fagradalsfjall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.38,
+          63.891,
+          4.7
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-07",
+        "Time": "01:20:19",
+        "Magnitude": 0.9,
+        "Quality": 99.0,
+        "Location": "5.3 km WSW of Fagradalsfjall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.391,
+          63.88,
+          5.0
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-07",
+        "Time": "01:20:01",
+        "Magnitude": 1.0,
+        "Quality": 99.0,
+        "Location": "5.2 km NNE of Grindav\u00edk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.43,
+          63.86,
+          4.8
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-07",
+        "Time": "01:11:49",
+        "Magnitude": 1.2,
+        "Quality": 99.0,
+        "Location": "2.5 km NNE of Grindav\u00edk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.376,
+          63.89,
+          5.5
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-07",
+        "Time": "01:00:28",
+        "Magnitude": 2.0,
+        "Quality": 99.0,
+        "Location": "5.2 km WSW of Fagradalsfjall"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.392,
+          63.875,
+          4.7
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-07",
+        "Time": "00:58:03",
+        "Magnitude": 0.9,
+        "Quality": 99.0,
+        "Location": "4.8 km NNE of Grindav\u00edk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.387,
+          63.882,
+          5.5
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-07",
+        "Time": "00:54:37",
+        "Magnitude": 1.1,
+        "Quality": 99.0,
+        "Location": "5.5 km NNE of Grindav\u00edk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.645,
+          63.636,
+          7.9
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-07",
+        "Time": "00:46:42",
+        "Magnitude": 0.4,
+        "Quality": 88.94,
+        "Location": "18.5 km S of Reykjanest\u00e1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.428,
+          63.864,
+          1.1
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-07",
+        "Time": "00:45:18",
+        "Magnitude": 0.9,
+        "Quality": 99.0,
+        "Location": "2.9 km NNE of Grindav\u00edk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.434,
+          63.865,
+          1.1
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-07",
+        "Time": "00:41:32",
+        "Magnitude": 1.4,
+        "Quality": 90.05,
+        "Location": "2.9 km N of Grindav\u00edk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.426,
+          63.867,
+          0.8
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-07",
+        "Time": "00:38:59",
+        "Magnitude": 0.9,
+        "Quality": 99.0,
+        "Location": "3.2 km NNE of Grindav\u00edk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -17.715,
+          64.516,
+          2.5
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-07",
+        "Time": "00:37:37",
+        "Magnitude": 0.1,
+        "Quality": 45.96,
+        "Location": "5.6 km NE of Hamarinn"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.428,
+          63.864,
+          3.1
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-07",
+        "Time": "00:35:34",
+        "Magnitude": 1.9,
+        "Quality": 99.0,
+        "Location": "2.9 km NNE of Grindav\u00edk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.414,
+          63.862,
+          4.8
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-07",
+        "Time": "00:32:42",
+        "Magnitude": 1.0,
+        "Quality": 99.0,
+        "Location": "3.0 km NNE of Grindav\u00edk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.424,
+          63.869,
+          1.1
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-07",
+        "Time": "00:17:23",
+        "Magnitude": 0.4,
+        "Quality": 99.0,
+        "Location": "3.5 km NNE of Grindav\u00edk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.436,
+          63.878,
+          3.3
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-07",
+        "Time": "00:08:51",
+        "Magnitude": 0.7,
+        "Quality": 99.0,
+        "Location": "4.4 km N of Grindav\u00edk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.446,
+          63.853,
+          4.6
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-07",
+        "Time": "00:01:56",
+        "Magnitude": 1.9,
+        "Quality": 99.0,
+        "Location": "1.6 km N of Grindav\u00edk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.383,
+          63.879,
+          6.0
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-07",
+        "Time": "00:00:25",
+        "Magnitude": 2.5,
+        "Quality": 99.0,
+        "Location": "5.3 km NNE of Grindav\u00edk"
+      }
+    }
+  ]
+}
