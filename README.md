@@ -54,11 +54,11 @@ The script generates an HTML file that contains the interactive earthquake visua
 
 ## Generated 3D Plotly for Iceland Region - Grindavík - Event Nov 2023:
 
-- 2023-11-07
-- 2023-11-06
-- 2023-11-05
-- 2023-11-04
-- Combined
+- [2023-11-07](https://earthquake.batjorge.com/iceland/grindavik/2023-11-07.csv.geojson.html)
+- [2023-11-06](https://earthquake.batjorge.com/iceland/grindavik/2023-11-06.csv.geojson.html)
+- [2023-11-05](https://earthquake.batjorge.com/iceland/grindavik/2023-11-05.csv.geojson.html)
+- [2023-11-04](https://earthquake.batjorge.com/iceland/grindavik/2023-11-04.csv.geojson.html)
+- [Combined](https://earthquake.batjorge.com/iceland/grindavik/2023.csv.geojson.html)
 
 ## Note
 
@@ -66,6 +66,6 @@ The script filters earthquake data based on the provided time frame and geograph
 
 Feel free to customize the script's parameters to analyze earthquake data for different time periods and regions in Iceland.
 
-**Author**: batjorge.com
+**Author**: [earthquake.batjorge.com](https://earthquake.batjorge.com)
 
 **License**: This project is licensed under the GNU GPLv3
