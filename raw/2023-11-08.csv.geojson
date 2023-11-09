@@ -6,6 +6,222 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
+          -22.45,
+          63.862,
+          2.6
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-08",
+        "Time": "23:56:31",
+        "Magnitude": 0.2,
+        "Quality": 90.01,
+        "Location": "2.6 km N of Grindav\u00edk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.449,
+          63.864,
+          1.2
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-08",
+        "Time": "23:56:03",
+        "Magnitude": 0.1,
+        "Quality": 90.01,
+        "Location": "2.8 km N of Grindav\u00edk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.453,
+          63.871,
+          4.0
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-08",
+        "Time": "23:55:05",
+        "Magnitude": 1.3,
+        "Quality": 90.06,
+        "Location": "3.6 km N of Grindav\u00edk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.449,
+          63.874,
+          2.5
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-08",
+        "Time": "23:43:16",
+        "Magnitude": 0.7,
+        "Quality": 90.02,
+        "Location": "3.9 km N of Grindav\u00edk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.447,
+          63.876,
+          1.1
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-08",
+        "Time": "23:34:47",
+        "Magnitude": 0.4,
+        "Quality": 90.02,
+        "Location": "4.1 km N of Grindav\u00edk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.452,
+          63.865,
+          3.7
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-08",
+        "Time": "23:30:04",
+        "Magnitude": 1.4,
+        "Quality": 90.04,
+        "Location": "2.9 km N of Grindav\u00edk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.444,
+          63.879,
+          0.9
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-08",
+        "Time": "23:28:39",
+        "Magnitude": 0.6,
+        "Quality": 90.03,
+        "Location": "4.5 km N of Grindav\u00edk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.448,
+          63.872,
+          1.9
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-08",
+        "Time": "23:22:22",
+        "Magnitude": 1.5,
+        "Quality": 90.04,
+        "Location": "3.7 km N of Grindav\u00edk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.458,
+          63.867,
+          3.3
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-08",
+        "Time": "23:20:43",
+        "Magnitude": 0.8,
+        "Quality": 90.03,
+        "Location": "3.2 km NNW of Grindav\u00edk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.439,
+          63.943,
+          5.6
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-08",
+        "Time": "23:19:47",
+        "Magnitude": 0.5,
+        "Quality": 44.47,
+        "Location": "2.1 km W of Raufarh\u00f3lshellir"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -22.454,
+          63.869,
+          4.1
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-08",
+        "Time": "23:18:53",
+        "Magnitude": 1.9,
+        "Quality": 90.08,
+        "Location": "3.4 km N of Grindav\u00edk"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -23.229,
+          63.213,
+          38.3
+        ]
+      },
+      "properties": {
+        "Date": "2023-11-08",
+        "Time": "23:18:29",
+        "Magnitude": 2.2,
+        "Quality": 71.61,
+        "Location": "42.1 km SE of Eldeyjarbo\u00f0i"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
           -22.455,
           63.874,
           5.1
