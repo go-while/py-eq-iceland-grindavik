@@ -1,9 +1,9 @@
 #!/usr/bin/python3
 
 # copy table from: https://en.vedur.is/earthquakes-and-volcanism/earthquakes#view=table
-# paste to head of file: 'raw/2023.csv' and run "./clean_table.sh" on file.
-# execute: 'python3 iceland_table2geojson.py'
-# generate 3dplotly with: 'python3 iceland3d.py' or 'python3 iceland3d.py --input_file raw/2023-11-07.csv.geojson'
+# paste to head of file: 'raw/yyyy-mm-dd.csv' and run "./clean_table.sh raw/yyyy-mm-dd.csv"
+# execute: 'python3 iceland_table2geojson.py' or 'python3 iceland_table2geojson.py --input_file raw/2023-11-07.csv'
+# generate 3dplotly with: 'python3 iceland3d.py' or 'python3 iceland3d.py --data_file raw/2023-11-07.csv.geojson'
 
 import argparse
 import geojson
