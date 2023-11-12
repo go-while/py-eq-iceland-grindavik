@@ -74,8 +74,8 @@ z_coords = []
 magnitudes = []
 datas = []
 amt = 0
-#BOUNDS = {	"north": 66.5365,	"south": 63.3926,	"east": -13.4950,	"west": -24.5469}
-BOUNDS = {	"north": 64.35,	"south": 63.35,	"east": -22.0,	"west": -23.0}
+BOUNDS = {	"north": 66.5365,	"south": 63.3926,	"east": -13.4950,	"west": -24.5469}
+#BOUNDS = {	"north": 64.35,	"south": 63.35,	"east": -22.0,	"west": -23.0}
 
 for feature in earthquake_data["features"]:
 	x_lon, y_lat, z = feature["geometry"]["coordinates"]
