@@ -54,19 +54,7 @@ The script generates an HTML file that contains the interactive earthquake visua
 
 ## Generated 3D Plotly for Iceland Region - Grindavík - Event Nov 2023:
 
-- [2023-11-15](https://earthquake.batjorge.com/iceland/grindavik/2023-11-15.csv.geojson.html)
-- [2023-11-14](https://earthquake.batjorge.com/iceland/grindavik/2023-11-14.csv.geojson.html)
-- [2023-11-13](https://earthquake.batjorge.com/iceland/grindavik/2023-11-13.csv.geojson.html)
-- [2023-11-12](https://earthquake.batjorge.com/iceland/grindavik/2023-11-12.csv.geojson.html)
-- [2023-11-11](https://earthquake.batjorge.com/iceland/grindavik/2023-11-11.csv.geojson.html)
-- [2023-11-10](https://earthquake.batjorge.com/iceland/grindavik/2023-11-10.csv.geojson.html)
-- [2023-11-09](https://earthquake.batjorge.com/iceland/grindavik/2023-11-09.csv.geojson.html)
-- [2023-11-08](https://earthquake.batjorge.com/iceland/grindavik/2023-11-08.csv.geojson.html)
-- [2023-11-07](https://earthquake.batjorge.com/iceland/grindavik/2023-11-07.csv.geojson.html)
-- [2023-11-06](https://earthquake.batjorge.com/iceland/grindavik/2023-11-06.csv.geojson.html)
-- [2023-11-05](https://earthquake.batjorge.com/iceland/grindavik/2023-11-05.csv.geojson.html)
-- [2023-11-04](https://earthquake.batjorge.com/iceland/grindavik/2023-11-04.csv.geojson.html)
-- [Combined](https://earthquake.batjorge.com/iceland/grindavik/2023.csv.geojson.html)
+- [Generated Series](https://earthquake.batjorge.com/iceland/grindavik/)
 
 ## Note
 
