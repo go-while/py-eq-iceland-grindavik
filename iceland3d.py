@@ -45,9 +45,14 @@ region = [
 		"latitude": 63.850764739286134,
 	},
 	{
-		"name": "BIOEFFECT Greenhouse",
+		"name": "Svartsengi Geothermal Power Plant",
 		"longitude": -22.42069411012411,
 		"latitude": 63.855415144648106,
+	},
+	{
+		"name": "BIOEFFECT Greenhouse",
+		"longitude":  -22.431877157020146,
+		"latitude": 63.878576851880645,
 	},
 	{
 		"name": "Bláa Lónið - Blue Lagoon",
